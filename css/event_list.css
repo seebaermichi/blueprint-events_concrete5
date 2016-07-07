@@ -1,0 +1,8 @@
+.ccm-ui .table > thead > tr > th,
+.ccm-ui .table > tbody > tr > th,
+.ccm-ui .table > tfoot > tr > th,
+.ccm-ui .table > thead > tr > td,
+.ccm-ui .table > tbody > tr > td,
+.ccm-ui .table > tfoot > tr > td {
+    vertical-align: middle !important;
+}
