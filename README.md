@@ -1,8 +1,8 @@
 # Blueprint Events - concrete5
-This is an example add-on for concrete5 version 5.7. It's based on the example add-on _cookbook-events_ from [__David Strack__](https://github.com/rmxdave) and his book [concrete5 Cookbook](https://www.packtpub.com/web-development/concrete5-cookbook) (see Appendix B).
+This is an example add-on for concrete5 version 5.7.4 It's based on the example add-on _cookbook-events_ from [__David Strack__](https://github.com/rmxdave) and his book [concrete5 Cookbook](https://www.packtpub.com/web-development/concrete5-cookbook) (see Appendix B).
 
 ## Purpose
-The add-on should help to learn developing add-ons for concrete5 version 5.7 and above. It can be used as a basis for further add-on development.
+The add-on should help to learn developing add-ons for concrete5 version 5.7.4 and above. It can be used as a basis for further add-on development.
 
 ## License
 Blueprint Events is released under the MIT License. See [LICENSE][1] file for details.
