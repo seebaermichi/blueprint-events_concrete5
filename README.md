@@ -11,4 +11,4 @@ Blueprint Events is released under the MIT License. See [LICENSE][1] file for de
 * [concrete5](https://www.concrete5.org/)
 * [Bundling Code into Packages for Reuse and Marketplace Distribution](http://documentation.concrete5.org/developers/packages/overview)
 
-[1]: https://github.com/seebaermichi/html-importer/blob/master/LICENSE
+[1]: https://github.com/seebaermichi/blueprint-events_concrete5/blob/master/LICENSE
